@@ -1,0 +1,6 @@
+framework module Pods_Arview {
+  umbrella header "Pods-Arview-umbrella.h"
+
+  export *
+  module * { export * }
+}
